@@ -1,5 +1,4 @@
 .filters{
-	color: white;
 	height: 70px;
 	width: 100%;
 	border: 1px solid #dddddd;
@@ -7,6 +6,7 @@
 	text-align: right;
 }
 button {
+	color: white;
 	font-size: 18px;
 	background-color: #FF5A5F;
 	color: #ffffff;
